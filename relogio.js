@@ -18,5 +18,3 @@ const interval = setInterval(() => {
     date.innerHTML = `${day} ${monthNames[month]} ${year}`;
 
 }, 1000);
-
-//BONITO NE
